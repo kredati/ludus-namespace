@@ -1,8 +1,9 @@
 {
-  "name": "namespace",
-  "version": "0.0.1",
+  "name": "@kredati/namespace",
+  "version": "0.1.0",
   "description": "A hacky reification of namespaces in JS",
-  "main": "index.js",
+  "main": "src/index.js",
+  "module": "src/main.js",
   "scripts": {
     "test": "tap test/*js"
   },
