@@ -1,5 +1,5 @@
 {
-  "name": "@kredati/namespace",
+  "name": "@kredati/ludus-namespace",
   "version": "0.1.0",
   "description": "A hacky reification of namespaces in JS",
   "main": "src/index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kredati/namespace.git"
+    "url": "git+https://github.com/kredati/ludus-namespace.git"
   },
   "author": "Scott Richmond",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/kredati/namespace/issues"
+    "url": "https://github.com/kredati/ludus-namespace/issues"
   },
-  "homepage": "https://github.com/kredati/namespace#readme",
+  "homepage": "https://github.com/kredati/ludus-namespace#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "tap": "^12.6.1"
